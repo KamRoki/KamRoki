@@ -5,10 +5,26 @@
 * Mail: kamil.stachurski@icloud.com
 
 ## Languages and Tools
-<p align='center'>
-<img src='https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif' width=100>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png' width=100>
-<img src='https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png' width=100>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <a href="https://drive.google.com/file/d/1p2Y4xDEixiKGIndXhAvXaa1zQothjKoI/view?usp=sharing" ><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="icon" width="65" height="65" /></a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" alt="icon" width="65" height="65" />
+          </a>
+          <br>PostgreSQL
+        </td>
+    <td align="center" width="96">
+        <a href="https://drive.google.com/file/d/1p2Y4xDEixiKGIndXhAvXaa1zQothjKoI/view?usp=sharing" ><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="icon" width="65" height="65" /></a>
+      <br>Matlab
+    </td>
+    </tr>
+</table>
+<br><br>  
 </p>
 
 ##  My Major Skill :  
