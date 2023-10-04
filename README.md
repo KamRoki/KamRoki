@@ -1,4 +1,4 @@
-# Hi there 👋 This is Kamil - Data Science & Machine Learning Enthusiast 💻
+# Hi there 👋 My name is Kamil. I'm a Data Science & Machine Learning Enthusiast 💻
 
 ## Contact me:
 * Linkedin: www.linkedin.com/in/kamroki
