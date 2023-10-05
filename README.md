@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <a href="https://www.python.org" ><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="icon" width="65" height="65" /></a>
+        <a href="https://www.python.org" ><img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="icon" width="65" height="65" /></a>
       <br>Python
     </td>
     <td align="center" width="96">
