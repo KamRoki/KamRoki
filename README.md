@@ -59,6 +59,12 @@
       </a>
       <br>Scikit-Learn
     </td>
+   <td align="center" width="96">
+      <a href='https://www.tensorflow.org/?hl=en'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="65" height="65" />
+      </a>
+      <br>TensorFlow
+    </td>
  </tr>
 </table>
 <br><br>  
