@@ -65,6 +65,11 @@
       </a>
       <br>TensorFlow
     </td>
+  <td align="center" width="96">
+      <a href='https://keras.io'>
+        <img src="https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" alt="icon" width="65" height="65" />
+      </a>
+      <br>Keras
  </tr>
 </table>
 <br><br>  
