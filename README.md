@@ -22,6 +22,9 @@
         <a href="https://www.mathworks.com/products/matlab.html" ><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="icon" width="65" height="65" /></a>
       <br>Matlab
     </td>
+    <td align="center" width="96">
+        <a href="https://git-scm.com" ><img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" alt="icon" width="65" height="65" /></a>
+      <br>Git
     </tr>
 </table>
 <br><br>  
