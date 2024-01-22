@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Kamil. I'm a PhD Candidate and Machine Learning Engineer 💻
+# Hi there 👋 My name is Kamil. I'm Data Scientist and PhD Candidate 💻
 
 ## Contact me:
 * Linkedin: www.linkedin.com/in/kamroki
