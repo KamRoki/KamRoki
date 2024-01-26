@@ -1,4 +1,5 @@
-# Hi there 👋 My name is Kamil. I'm Data Scientist and PhD Candidate 💻
+# Data Scientist and PhD Candidate 💻
+Hi there 👋 My name is Kamil. I'm a PhD Candidate in Physics and a Data Scientist in Luqam.
 
 ## Contact me:
 * Linkedin: www.linkedin.com/in/kamroki
