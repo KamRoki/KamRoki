@@ -73,6 +73,18 @@
         <img src="https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" alt="icon" width="65" height="65" />
       </a>
       <br>Keras
+  <td align="center" width="96">
+      <a href='https://www.docker.com/'>
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="icon" width="65" height="65" />
+      </a>
+      <br>Docker
+    </td>  
+  <td align="center" width="96">
+      <a href='https://streamlit.io/'>
+        <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="icon" width="65" height="65" />
+      </a>
+      <br>Streamlit
+    </td>  
  </tr>
 </table>
 <br><br>  
