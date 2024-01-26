@@ -5,7 +5,7 @@ Hi there 👋 My name is Kamil. I'm a PhD Candidate in Physics and a Data Scient
 * Linkedin: www.linkedin.com/in/kamroki
 * Mail: kamil.stachurski@icloud.com
 
-## Languages
+## Languages & Tools
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -31,7 +31,6 @@ Hi there 👋 My name is Kamil. I'm a PhD Candidate in Physics and a Data Scient
 <br><br>  
 </p>
 
-##  My Major Skill :  
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
