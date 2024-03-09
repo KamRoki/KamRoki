@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Kamil. I am a Data Scientist and PhD Candidate in Physics with three years experience in Python and two years experience in machine learning and deep learning. I am a team player with strong creative and analytical skills. I'm interested in the area of AI.
+Hello! My name is Kamil. I am a Data Scientist and PhD Candidate in Physics with three years of experience in Python and two years of experience in machine learning and deep learning. Currently, I am pursuing my PhD at the Institute of Nuclear Physics Polish Academy of Sciences, specializing in magnetic resonance imaging. I am a team player with strong creative and analytical skills, and I'm particularly interested in the area of AI. 
 
 
 ## 🌐 Socials:
