@@ -20,6 +20,7 @@ Hello! My name is Kamil. I am a Data Scientist and PhD Candidate in Physics with
 	    		<code><a href="https://matplotlib.org" title="Matplotlib" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="40" height="40"/></a></code>
 	    		<code><a href="https://seaborn.pydata.org" title="Seaborn" target="_blank"><img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="40" height="40"/></a></code>
 	    		<code><a href="https://plotly.com" title="Plotly" target="_blank"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="40" height="40"/></a></code>
+	    		<code><a href="https://scipy.org" title="SciPy" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" height="40"/></a></code>
 		</div>
 	</div>
 </main>
