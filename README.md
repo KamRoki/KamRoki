@@ -10,13 +10,16 @@ Hello! My name is Kamil. I am a Data Scientist and PhD Candidate in Physics with
 	<div align="center">
 		<div>
 			<code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/></a></code>
-      <code><a href="[https://www.mysql.com/](https://www.mathworks.com/products/matlab.html)" title="MATLAB" target="_blank"><img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="MATLAB" width="40" height="40"/></a></code>
+      			<code><a href="[https://www.mysql.com/](https://www.mathworks.com/products/matlab.html)" title="MATLAB" target="_blank"><img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="MATLAB" width="40" height="40"/></a></code>
 			<code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/></a></code>
-      <code><a href="https://www.r-project.org" title="R" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/></a></code>
+      			<code><a href="https://www.r-project.org" title="R" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="40" height="40"/></a></code>
 		</div>
     <div>
 			<code><a href="https://pandas.pydata.org" title="Pandas" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="pandas" width="40" height="40"/></a></code>
-      <code><a href="https://numpy.org" title="NumPy" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/></a></code>
+      			<code><a href="https://numpy.org" title="NumPy" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/></a></code>
+	    		<code><a href="https://matplotlib.org" title="Matplotlib" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="40" height="40"/></a></code>
+	    		<code><a href="https://seaborn.pydata.org" title="Seaborn" target="_blank"><img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="40" height="40"/></a></code>
+	    		<code><a href="https://plotly.com" title="Plotly" target="_blank"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="40" height="40"/></a></code>
 		</div>
 	</div>
 </main>
