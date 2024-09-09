@@ -22,6 +22,12 @@ Hello! My name is Kamil. I am a Data Scientist and PhD Candidate in Physics with
 	    		<code><a href="https://plotly.com" title="Plotly" target="_blank"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="40" height="40"/></a></code>
 	    		<code><a href="https://scipy.org" title="SciPy" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" height="40"/></a></code>
 		</div>
+		<div>
+			<code><a href="https://scikit-learn.org/stable/#" title="Scikit-Learn" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/></a></code>
+			<code><a href="https://www.tensorflow.org" title="TensorFlow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/></a></code>
+			<code><a href="https://pytorch.org" title="PyTorch" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/></a></code>
+			<code><a href="https://streamlit.io" title="Streamlit" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/></a></code>
+		</div>
 	</div>
 </main>
 
