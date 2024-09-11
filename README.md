@@ -27,6 +27,7 @@ Hello! My name is Kamil. I am a Data Scientist and PhD Candidate in Physics with
 			<code><a href="https://www.tensorflow.org" title="TensorFlow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/></a></code>
 			<code><a href="https://pytorch.org" title="PyTorch" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/></a></code>
 			<code><a href="https://streamlit.io" title="Streamlit" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/></a></code>
+			<code><a href="https://www.docker.com" title="Docker" target="_blank"><img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" width="40" height="40"/></a></code>
 		</div>
 	</div>
 </main>
