@@ -29,6 +29,11 @@ Hello! My name is Kamil. I am a Data Scientist and PhD Candidate in Physics with
 			<code><a href="https://streamlit.io" title="Streamlit" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/></a></code>
 			<code><a href="https://www.docker.com" title="Docker" target="_blank"><img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" width="40" height="40"/></a></code>
 		</div>
+		<div>
+			<code><a href="https://git-scm.com" title="Git" target="_blank"><img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/></a></code>
+			<code><a href="https://github.com" title="GitHub" target="_blank"><img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png" alt="github" width="40" height="40"/></a></code>
+			<code><a href="https://ubuntu.com" title="Linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/></a></code>
+		</div>
 	</div>
 </main>
 
