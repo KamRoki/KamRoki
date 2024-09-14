@@ -1,3 +1,12 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/_hi.gif" width=32 height=32>, I'm Kamil Stachurski</h1>
+<!--<h3 align="center">PhD Candidate • Data Scientist • MRI Researcher</h3>-->
+<p align="center">
+  PhD Candidate | Data Scientist | Researcher
+</p>
+
+
+
+
 # 💫 About Me:
 Hello! My name is Kamil. I am a Data Scientist and PhD Candidate in Physics with three years of experience in Python and two years of experience in machine learning and deep learning. Currently, I am pursuing my PhD at the Institute of Nuclear Physics Polish Academy of Sciences, specializing in magnetic resonance imaging. I am a team player with strong creative and analytical skills, and I'm particularly interested in the area of AI. 
 
@@ -33,19 +42,11 @@ Hello! My name is Kamil. I am a Data Scientist and PhD Candidate in Physics with
 			<code><a href="https://git-scm.com" title="Git" target="_blank"><img src="https://book.git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/></a></code>
 			<code><a href="https://github.com" title="GitHub" target="_blank"><img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png" alt="github" width="40" height="40"/></a></code>
 			<code><a href="https://ubuntu.com" title="Linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/></a></code>
+			<code><a href="https://aws.amazon.com" title="AWS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/></a></code>
+			<code><a href="https://www.latex-project.org/#google_vignette" title="Latex" target="_blank"><img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/latex-light.svg" alt="latex" width="40" height="40"/></a></code>
+			<code><a href="https://jupyter.org" title="jupyter" target="_blank"><img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/jupyter.svg" alt="jupyter" width="40" height="40"/></a></code>
 		</div>
 	</div>
 </main>
 
       
-
-
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFLow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KamRoki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=KamRoki&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
