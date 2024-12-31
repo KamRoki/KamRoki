@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/_hi.gif" width=32 height=32>, I'm Kamil Stachurski</h1>
 <!--<h3 align="center">PhD Candidate • Data Scientist • MRI Researcher</h3>-->
 <p align="center">
-  PhD Candidate | Data Scientist | Researcher
+  Research Data Scientist | PhD Candidate
 </p>
 
 
