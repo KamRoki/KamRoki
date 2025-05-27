@@ -6,7 +6,7 @@
 
 # 💫 About Me
 
-I’m Kamil Stachurski – a Data Scientist and MRI Physicist deeply immersed in the intersection of medical imaging and artificial intelligence.
+I’m Kamil Stachurski – a MRI Scientist and a Data Scientist  deeply immersed in the intersection of medical imaging and artificial intelligence.
 
 Currently, I’m pursuing my PhD at the **Institute of Nuclear Physics, Polish Academy of Sciences**, where I specialize in **preclinical MRI**, **data modeling** and **image analysis**. My research focuses on different animal models, quantitative DCE/DSC-MRI and machine learning-driven signal interpretation.
 
