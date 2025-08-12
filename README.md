@@ -7,8 +7,6 @@
 # 💫 About Me
 
 I’m Kamil Stachurski – a MRI Scientist and a Data Scientist deeply immersed in the intersection of medical imaging, artificial intelligence and developing specialized softwares for preclinical and clinical purposes.
-
-Currently, I’m working in the **Center for the Development of Therapies for Civilization and Age-Related Diseases**, where I specialize in **preclinical MRI/PET**, advanced **data analysis**, **image analysis** and software development. 
   
 
 ---
